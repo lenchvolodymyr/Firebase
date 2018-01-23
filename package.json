@@ -1,0 +1,22 @@
+{
+    "name": "Firebase",
+    "version": "0.0.1",
+    "versionDate": "2018-01-13",
+    "author": "hackolade",
+    "engines": {
+        "hackolade": "1.10.x",
+        "hackoladePlugin": "1.0.0"
+    },
+    "contributes": {
+        "target": {
+            "applicationTarget": "FIREBASE",
+            "title": "Realtime Firebase",
+            "versions": []
+        },
+        "features": {
+            "nestedCollections": false
+        }
+    },
+    "description": "Hackolade plugin for Google REaltime Firebase",
+    "disabled": false
+}
