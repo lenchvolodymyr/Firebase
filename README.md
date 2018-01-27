@@ -1,4 +1,4 @@
-# HBase
+# Google RealTime Firebase
 Plugin to enable Google RealTime Firebase as a target in Hackolade data modeling.
 
 <div class="main-content">
