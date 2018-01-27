@@ -1,0 +1,34 @@
+{
+	"model": {
+		"modelName": "New model",
+		"dbVersion": "",
+		"dbVendor": "Realtime Firebase"
+	},
+	"container": {
+		"name": "New database",
+		"indexes": []
+	},
+	"collection": {
+		"collectionName": "New node",
+		"collectionUsers": [],
+		"collation": {}
+	},
+	"field": {
+		"name": "New field"
+	},
+	"patternField": {
+		"name": "^[a-zA-Z0-9_.-]*$"
+	},
+	"multipleField": {
+		"primaryKey": false
+	},
+	"subschema": {},
+	"arrayItem": {},
+	"choice": {},
+	"relationship": {},
+	"user": {},
+	"view": {
+		"viewOn": "",
+		"pipeline": ""
+	}
+}
