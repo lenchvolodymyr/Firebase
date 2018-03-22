@@ -1,5 +1,5 @@
-# HBase
-Plugin to enable Apache HBase server as a target in Hackolade data modeling.
+# Google RealTime Firebase
+Plugin to enable Google RealTime Firebase as a target in Hackolade data modeling.
 
 <div class="main-content">
 
